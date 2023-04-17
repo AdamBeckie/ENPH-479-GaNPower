@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=DPT2.3.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=DPT2.3.SchDoc|Designator=HD|SchDesignator=HD|FileName=GateDriver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=GateDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DPT2.3.SchDoc|Designator=High|SchDesignator=High|FileName=HV_Measurements.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=HV_Measurements.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DPT2.3.SchDoc|Designator=Low|SchDesignator=Low|FileName=HV_Measurements.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=HV_Measurements.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

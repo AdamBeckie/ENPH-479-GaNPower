@@ -1,0 +1,12 @@
+Output: DPT2.2_NC-Drill
+Type  : NC Drill
+From  : PCB Document [DPT2.2.PcbDoc]
+   Generated File[DPT2.2.TXT]
+   Generated File[DPT2.2.LDP]
+   Generated File[DPT2.2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:43:03 AM On 2023-02-23

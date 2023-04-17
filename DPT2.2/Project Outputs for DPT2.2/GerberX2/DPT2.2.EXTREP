@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: DPT2.2.GBR   2023-02-23  11:01:29 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Layer 1                                 
+.gbr                Layer 2                                 
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Board Shape                             
+.gbr                Bottom Tenting                          
+.gbr                Top Tenting                             
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+------------------------------------------------------------------------------------------

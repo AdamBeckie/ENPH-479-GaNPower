@@ -1,0 +1,30 @@
+Output: DPT2.2_GerberX2
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [DPT2.2.PcbDoc]
+   Generated File[DPT2.2_Copper_Signal_Top.gbr]
+   Generated File[DPT2.2_Copper_Signal_1.gbr]
+   Generated File[DPT2.2_Copper_Signal_2.gbr]
+   Generated File[DPT2.2_Copper_Signal_Bot.gbr]
+   Generated File[DPT2.2_Pads_Bot.gbr]
+   Generated File[DPT2.2_Pads_Top.gbr]
+   Generated File[DPT2.2_Paste_Bot.gbr]
+   Generated File[DPT2.2_Legend_Bot.gbr]
+   Generated File[DPT2.2_Soldermask_Bot.gbr]
+   Generated File[DPT2.2_Legend_Top.gbr]
+   Generated File[DPT2.2_Paste_Top.gbr]
+   Generated File[DPT2.2_Soldermask_Top.gbr]
+   Generated File[DPT2.2_Board_Shape.gbr]
+   Generated File[DPT2.2_Bottom_Tenting.gbr]
+   Generated File[DPT2.2_Top_Tenting.gbr]
+   Generated File[DPT2.2_Profile.gbr]
+   Generated File[DPT2.2_NPTH_Drill.gbr]
+   Generated File[DPT2.2_PTH_Drill.gbr]
+   Generated File[DPT2.2.RUL]
+   Generated File[DPT2.2.EXTREP]
+   Generated File[DPT2.2.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 11:01:33 PM On 2023-02-23
